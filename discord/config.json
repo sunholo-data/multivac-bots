@@ -1,0 +1,30 @@
+{
+	"Mark Edmondson": {
+		"1107554583192031232":"edmonbrain",
+		"1114588633505206353": "edmonbrain_agent"
+	},
+	"Illys Shield":{
+		"1107554583192031232":"fnd"
+	},
+	"MemoAux":{
+		"1107554583192031232":"sanne"
+	},
+	"Den sprudlende glædes server":{
+		"1107554583192031232": "jesper"
+	},
+	"_bot_config":{
+		"edmonbrain": {
+			"stream": true
+		},
+		"fnd":{
+
+		},
+		"edmonbrain_agent":{
+			"stream": true
+		},
+		"sanne": {
+		},
+		"jesper":{
+		}
+	}
+}
